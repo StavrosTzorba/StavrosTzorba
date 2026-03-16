@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Stavros, and I'm a web developer that creates accessible applications with emphasis on user experience and practicality.
+
+🔭 I’m currently working on an application that allows interactive exploration of complex data structures (such as databases) and performs automatic visualization recommendations that are expressive and effective, based on that data.
+
+- 🌱 I have built the frontend for the websites that allow access to the digitized archival material collection of the Museum of Education and the Museum of Medicine of the University of Crete.
+  - You can check the Museum of Education [here](https://e-her.org)
+  - You can check the Museum of Medicine [here](https://digital-museum.med.uoc.gr/)
+
 <!--
 **StavrosTzorba/StavrosTzorba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
